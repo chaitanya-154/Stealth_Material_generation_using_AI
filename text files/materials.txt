@@ -1,0 +1,38 @@
+Osmium ,Iridium , Platinum , Gold ,Silver ,Copper ,Aluminum , Tin ,Lead
+ ,Mercury , Gallium , Indium , Thallium ,Bismuth ,Polonium ,Astatine , Radon , Francium , Radium
+ ,Actinium ,Thorium , Protactinium, Uranium ,Neptunium 
+, Plutonium ,Americium 
+Curium , Berkelium ,
+ Californium   ,Graphene,Vanadium pentoxide,Titanium nitride,Boron nitride,Tungsten,Hafnium,Tantalum,Carbon foam
+Carbon black,Nickel,vCarbon-fiber composites,
+Metal-matrix composites,
+Polymer-matrix composites,Negative refractive index metamaterials
+Metamaterial absorbers,
+Metamaterial cloaks
+Silicon,teflon,zinc oxide,Titanium dioxide
+
+
+Bismuth: Bismuth is a metal that is very good at absorbing radar waves. It has a high electrical conductivity and a large surface area to volume ratio, which allows it to interact with radar waves more effectively.
+Graphene: Graphene is a two-dimensional material made up of carbon atoms arranged in a hexagonal lattice. It is a very good conductor of electricity and heat, and it also has a high surface area to volume ratio. This makes graphene a very promising material for stealth applications.
+Carbon nanotubes: Carbon nanotubes are a type of carbon fiber that is made up of rolled-up graphene sheets. They are very strong and lightweight, and they also have a high electrical conductivity and a high surface area to volume ratio. This makes carbon nanotubes a very promising material for stealth applications.
+Carbon foam: Carbon foam is a type of carbon-based material that is made up of a network of interconnected carbon fibers. It is very lightweight and has a high surface area to volume ratio. This makes carbon foam a good material for absorbing radar waves.
+Carbon black: Carbon black is a type of carbon that is made up of very small, spherical particles. It is a very good conductor of electricity and has a high surface area to volume ratio. This makes carbon black a good material for absorbing radar waves.
+Nickel: Nickel is a metal that is very good at absorbing radar waves. It has a high electrical conductivity and a large surface area to volume ratio. This makes nickel a good material for stealth applications.
+Silver: Silver is a metal that is very good at conducting electricity and heat. It also has a high surface area to volume ratio. This makes silver a good material for absorbing radar waves.
+Titanium: Titanium is a metal that is very strong and lightweight. It also has a high electrical conductivity. This makes titanium a good material for stealth applications.
+Aluminum: Aluminum is a metal that is very lightweight and has a high electrical conductivity. This makes aluminum a good material for stealth applications.
+Magnesium: Magnesium is a metal that is very lightweight and has a high electrical conductivity. This makes magnesium a good material for stealth applications.
+
+poly matrix and vCarbon-fiber composites
+Carbon fiber: Carbon fiber is a very strong and lightweight material that is made up of long, thin fibers of carbon. It is a very good conductor of electricity and has a high surface area to volume ratio. This makes carbon fiber a good material for absorbing radar waves.
+Kevlar: Kevlar is a synthetic fiber that is made up of long, thin fibers of polyaramid. It is very strong and lightweight, and it also has a high modulus of elasticity. This makes Kevlar a good material for absorbing radar waves.
+Aramid: Aramid is a synthetic fiber that is made up of long, thin fibers of polyaramide. It is very strong and lightweight, and it also has a high modulus of elasticity. This makes aramid a good material for absorbing radar waves.
+Glass fiber: Glass fiber is a very strong and lightweight material that is made up of long, thin fibers of glass. It is a good conductor of electricity and has a high surface area to volume ratio. This makes glass fiber a good material for absorbing radar waves.
+Polyurethane: Polyurethane is a polymer that is made up of long, chain-like molecules. It is a good conductor of electricity and has a high surface area to volume ratio. This makes polyurethane a good material for absorbing radar waves.
+Epoxy: Epoxy is a thermosetting resin that is made up of long, chain-like molecules. It is a good conductor of electricity and has a high surface area to volume ratio. This makes epoxy a good material for absorbing radar waves.
+Vinyl ester: Vinyl ester is a thermosetting resin that is made up of long, chain-like molecules. It is a good conductor of electricity and has a high surface area to volume ratio. This makes vinyl ester a good material for absorbing radar waves.
+Nylon: Nylon is a polymer that is made up of long, chain-like molecules. It is a good conductor of electricity and has a high surface area to volume ratio. This makes nylon a good material for absorbing radar waves.
+Polyester: Polyester is a polymer that is made up of long, chain-like molecules. It is a good conductor of electricity and has a high surface area to volume ratio. This makes polyester a good material for absorbing radar waves.
+PEEK: PEEK is a high-performance polymer that is made up of long, chain-like molecules. It is a good conductor of electricity and has a high surface area to volume ratio. This makes PEEK a good material for absorbing radar waves.
+
+
